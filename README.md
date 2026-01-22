@@ -67,7 +67,7 @@ Burglary-Activity-Detector/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
    ```bash
@@ -97,8 +97,8 @@ Burglary-Activity-Detector/
 
 ##  Author
 
-Chippada Mahitha
-B.Tech – Artificial Intelligence & Data Science
+-Chippada Mahitha
+-B.Tech – Artificial Intelligence & Data Science
 
 
 
